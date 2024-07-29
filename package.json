@@ -1,0 +1,15 @@
+{
+  "name": "homelabstats",
+  "version": "1.0.0",
+  "description": "Homelab Stats!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "homelabstats"
+  },
+  "author": "M23",
+  "license": "ISC"
+}
